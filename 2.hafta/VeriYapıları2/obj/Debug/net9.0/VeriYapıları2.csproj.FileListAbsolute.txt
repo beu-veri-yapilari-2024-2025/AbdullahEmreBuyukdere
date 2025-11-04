@@ -1,0 +1,15 @@
+C:\Users\emre1\Desktop\Projeler\VeriYapıları2\VeriYapıları2\bin\Debug\net9.0\VeriYapıları2.exe
+C:\Users\emre1\Desktop\Projeler\VeriYapıları2\VeriYapıları2\bin\Debug\net9.0\VeriYapıları2.deps.json
+C:\Users\emre1\Desktop\Projeler\VeriYapıları2\VeriYapıları2\bin\Debug\net9.0\VeriYapıları2.runtimeconfig.json
+C:\Users\emre1\Desktop\Projeler\VeriYapıları2\VeriYapıları2\bin\Debug\net9.0\VeriYapıları2.dll
+C:\Users\emre1\Desktop\Projeler\VeriYapıları2\VeriYapıları2\bin\Debug\net9.0\VeriYapıları2.pdb
+C:\Users\emre1\Desktop\Projeler\VeriYapıları2\VeriYapıları2\obj\Debug\net9.0\VeriYapıları2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre1\Desktop\Projeler\VeriYapıları2\VeriYapıları2\obj\Debug\net9.0\VeriYapıları2.AssemblyInfoInputs.cache
+C:\Users\emre1\Desktop\Projeler\VeriYapıları2\VeriYapıları2\obj\Debug\net9.0\VeriYapıları2.AssemblyInfo.cs
+C:\Users\emre1\Desktop\Projeler\VeriYapıları2\VeriYapıları2\obj\Debug\net9.0\VeriYapıları2.csproj.CoreCompileInputs.cache
+C:\Users\emre1\Desktop\Projeler\VeriYapıları2\VeriYapıları2\obj\Debug\net9.0\VeriYapıları2.sourcelink.json
+C:\Users\emre1\Desktop\Projeler\VeriYapıları2\VeriYapıları2\obj\Debug\net9.0\VeriYapıları2.dll
+C:\Users\emre1\Desktop\Projeler\VeriYapıları2\VeriYapıları2\obj\Debug\net9.0\refint\VeriYapıları2.dll
+C:\Users\emre1\Desktop\Projeler\VeriYapıları2\VeriYapıları2\obj\Debug\net9.0\VeriYapıları2.pdb
+C:\Users\emre1\Desktop\Projeler\VeriYapıları2\VeriYapıları2\obj\Debug\net9.0\VeriYapıları2.genruntimeconfig.cache
+C:\Users\emre1\Desktop\Projeler\VeriYapıları2\VeriYapıları2\obj\Debug\net9.0\ref\VeriYapıları2.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "VeriYapıları2/1.0.0": {
+        "runtime": {
+          "VeriYapıları2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VeriYapıları2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
