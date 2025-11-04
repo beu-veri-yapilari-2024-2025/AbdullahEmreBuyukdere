@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emre1\\Desktop\\Projeler\\VeriYap\u0131lar\u0131LinledList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14862579-5246-447B-A27D-F9BD1E06D992}|VeriYap\u0131lar\u0131LinledList\\VeriYap\u0131lar\u0131LinledList.csproj|c:\\users\\emre1\\desktop\\projeler\\veriyap\u0131lar\u0131linledlist\\veriyap\u0131lar\u0131linledlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14862579-5246-447B-A27D-F9BD1E06D992}|VeriYap\u0131lar\u0131LinledList\\VeriYap\u0131lar\u0131LinledList.csproj|solutionrelative:veriyap\u0131lar\u0131linledlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emre1\\Desktop\\Projeler\\VeriYap\u0131lar\u0131LinledList\\VeriYap\u0131lar\u0131LinledList\\Program.cs",
+              "RelativeDocumentMoniker": "VeriYap\u0131lar\u0131LinledList\\Program.cs",
+              "ToolTip": "C:\\Users\\emre1\\Desktop\\Projeler\\VeriYap\u0131lar\u0131LinledList\\VeriYap\u0131lar\u0131LinledList\\Program.cs",
+              "RelativeToolTip": "VeriYap\u0131lar\u0131LinledList\\Program.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAiwCcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:48:34.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
