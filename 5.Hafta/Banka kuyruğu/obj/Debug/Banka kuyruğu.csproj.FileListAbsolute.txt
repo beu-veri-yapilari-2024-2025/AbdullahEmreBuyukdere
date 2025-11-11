@@ -1,0 +1,7 @@
+C:\Users\emre1\Desktop\Projeler\Banka kuyruğu\Banka kuyruğu\bin\Debug\Banka kuyruğu.exe.config
+C:\Users\emre1\Desktop\Projeler\Banka kuyruğu\Banka kuyruğu\bin\Debug\Banka kuyruğu.exe
+C:\Users\emre1\Desktop\Projeler\Banka kuyruğu\Banka kuyruğu\bin\Debug\Banka kuyruğu.pdb
+C:\Users\emre1\Desktop\Projeler\Banka kuyruğu\Banka kuyruğu\obj\Debug\Banka kuyruğu.csproj.AssemblyReference.cache
+C:\Users\emre1\Desktop\Projeler\Banka kuyruğu\Banka kuyruğu\obj\Debug\Banka kuyruğu.csproj.CoreCompileInputs.cache
+C:\Users\emre1\Desktop\Projeler\Banka kuyruğu\Banka kuyruğu\obj\Debug\Banka kuyruğu.exe
+C:\Users\emre1\Desktop\Projeler\Banka kuyruğu\Banka kuyruğu\obj\Debug\Banka kuyruğu.pdb
